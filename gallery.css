@@ -1,10 +1,10 @@
 .head{
-    background: url(Pictures/img2.jpg) center center / cover no-repeat;
+    background: url(img2.jpg) center center / cover no-repeat;
 
 }
 body{
     padding-top:70px;
-   /* background: url(Pictures/mae-mu-ppOPjqAJ3Mw-unsplash.jpg) center center / cover no-repeat fixed;*/
+    background: url(mae-mu-ppOPjqAJ3Mw-unsplash.jpg) center center / cover no-repeat fixed;
 }
 h1, h5{
     color:white;
